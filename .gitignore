@@ -1,0 +1,11 @@
+# out
+/public/bundle.js
+/public/bundle.js.map
+
+# NodeJS
+node_modules
+package-lock.json
+
+# misc
+.DS_Store
+.vscode
